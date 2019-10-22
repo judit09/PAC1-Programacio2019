@@ -1,0 +1,69 @@
+[{
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\error.h",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\error.h -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\error.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\film.h",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\film.h -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\film.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\view.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\view.c -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\view.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\user.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\user.c -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\user.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\view.h",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\view.h -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\view.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\series.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\series.c -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\series.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\series.h",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\series.h -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\series.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\film.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\film.c -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\src\\film.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\user.h",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\user.h -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlix\\include\\user.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -I. -I. -I./include"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\lol\\main.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\lol",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\lol\\main.c -o C:\\Users\\MARLO\\Documents\\LOL\\lol\\main.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\utils.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\utils.c -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\utils.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -DNDEBUG -I. -I. -I./include -I./test/include -I../UOCFlix/include  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\test_suit.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\test_suit.c -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\test_suit.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -DNDEBUG -I. -I. -I./include -I./test/include -I../UOCFlix/include  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\src\\main.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\src\\main.c -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\src\\main.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -DNDEBUG -I. -I. -I./include -I./test/include -I../UOCFlix/include  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\utils.h",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\utils.h -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\utils.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -DNDEBUG -I. -I. -I./include -I./test/include -I../UOCFlix/include  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\test_pr1.h",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\test_pr1.h -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\test_pr1.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -DNDEBUG -I. -I. -I./include -I./test/include -I../UOCFlix/include  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\test_pr1.c",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\test_pr1.c -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\src\\test_pr1.c.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -DNDEBUG -I. -I. -I./include -I./test/include -I../UOCFlix/include  -O2  -Wall"
+ }, {
+  "file": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\test_suit.h",
+  "directory": "C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain",
+  "command": "clang  -c C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\test_suit.h -o C:\\Users\\MARLO\\Documents\\LOL\\UOCFlixMain\\test\\include\\test_suit.h.o -target x86_64-pc-windows-gnu -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++ -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\x86_64-w64-mingw32 -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include\\c++\\backward -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include -IC:\\TDM-GCC-64\\include -IC:\\TDM-GCC-64\\lib\\gcc\\x86_64-w64-mingw32\\5.1.0\\include-fixed -IC:\\TDM-GCC-64\\x86_64-w64-mingw32\\include -DNDEBUG -I. -I. -I./include -I./test/include -I../UOCFlix/include  -O2  -Wall"
+ }]

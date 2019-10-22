@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="LOL" Database="" Version="10.0.0">
+  <Project Name="UOCFlix" Path="UOCFlix/UOCFlix.project" Active="No"/>
+  <Project Name="UOCFlixMain" Path="UOCFlixMain/UOCFlixMain.project" Active="Yes"/>
+  <Project Name="lol" Path="lol/lol.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="UOCFlix" ConfigName="Debug"/>
+      <Project Name="UOCFlixMain" ConfigName="Debug"/>
+      <Project Name="lol" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UOCFlix" ConfigName="Release"/>
+      <Project Name="UOCFlixMain" ConfigName="Release"/>
+      <Project Name="lol" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

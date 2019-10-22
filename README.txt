@@ -1,0 +1,1 @@
+Sistema operatiu: Windows 10
